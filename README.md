@@ -8,7 +8,7 @@ Installation:
 
 - Download a copy of the sources
 
-- Set up the dependancies:  pip "install -r yuzu_voice/requirements.txt"
+- Set up the dependancies:  "pip install -r yuzu_voice/requirements.txt"
 
 Usage:
 
